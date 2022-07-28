@@ -12,4 +12,4 @@ The Image Filtering Microservice, It is a Node-Express application which runs a 
 - A new endpoint that uses query parameter to download an image from a public URL, filter the image, and return the result was created.
 - The application was deployed to Elastic Beanstalk using `eb init`, `eb create` and `eb deploy` cli commands
 
-[endpoint url](http://udagram-jonah-dev-dev.us-east-1.elasticbeanstalk.com)
+  [endpoint url](http://udagram-jonah-dev-dev.us-east-1.elasticbeanstalk.com)
